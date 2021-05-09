@@ -1,19 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# <a href="https://colab.research.google.com/github/prateekjoshi565/Fine-Tuning-BERT/blob/master/Fine_Tuning_BERT_for_Spam_Classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-# # Install Transformers Library
-
-# In[ ]:
-
-
-get_ipython().system('pip install transformers')
-
-
-# In[38]:
-
-
 import numpy as np
 import json
 import pandas as pd
